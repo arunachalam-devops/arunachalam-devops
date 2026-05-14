@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show-icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=arunachalam-devops&theme=dark)
 ---
 
 📫 **Reach me:** aaditiyaarunachalam999@gmail.com  
