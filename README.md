@@ -23,9 +23,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Arunachalam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show-icons=true&theme=dark)
 ---
 
 📫 **Reach me:** aaditiyaarunachalam999@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/arunachalam-g-sre)
+
+ 
