@@ -23,8 +23,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=arunachalam-devops&theme=dark)
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show_icons=true&theme=dark&cache_seconds=1800)
+
+ 
 
 📫 **Reach me:** aaditiyaarunachalam999@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/arunachalam-g-sre)
