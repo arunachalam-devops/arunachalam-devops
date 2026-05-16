@@ -22,9 +22,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show_icons=true&theme=dark&cache_seconds=1800)
-
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunachalam-devops&show_icons=true&theme=tokyonight&hide_border=true)
  
 
 📫 **Reach me:** aaditiyaarunachalam999@gmail.com  
