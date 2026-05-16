@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats  
  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=arunachalam-devops&show_icons=true&theme=tokyonight&hide_border=true)
- [![GitHub Streak](https://streak-stats.demolab.com?user=arunachalam-devops&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arunachalam-devops&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 📫 **Reach me:** aaditiyaarunachalam999@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/arunachalam-g-sre)
